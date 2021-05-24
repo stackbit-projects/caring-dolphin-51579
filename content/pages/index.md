@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Testing!
+    title: Testing! 123
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
